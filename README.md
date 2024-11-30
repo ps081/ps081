@@ -55,4 +55,4 @@ I'm a passionate software developer who loves working with:
 - Twitter: [@YourTwitterHandle](https://twitter.com/yourhandle)
 
 
-![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDMyNWRhZGZiZDI4ZWU3YjNiMzZkOTgwN2NkZjkwMjI3ZTYwMjg5YyZzZWQ9ZTgzNmFiZTg5MmFjZjgxOGM2OWVjZDlmMmU0YTg3OGZlZDBiN2QwYWIxMmNkNTNmZGM2MjJhYzZ0MiZyPGEtd2VudW5z&url=https://media.giphy.com/media/3o6Zt2M57yQgmLOQ8Y/giphy.gif)
+![Coding GIF](https://i.gifer.com/1KCB.gif)
