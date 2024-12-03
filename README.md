@@ -52,7 +52,7 @@ I'm a passionate software developer who loves working with:
 
 ## 📫 How to Reach Me:
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/thisissande-ep/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourhandle)
+- Twitter: [@YourTwitterHandle](https://twitter.com/thesande-ep)
 
 
 ![Coding GIF](https://i.gifer.com/1KCB.gif)
